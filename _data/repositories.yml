@@ -1,0 +1,8 @@
+# GitHub repositories to display
+# You can add your own repositories here once you have a GitHub account
+
+github_users: []
+
+repo_description_lines_max: 2
+
+github_repos: []
